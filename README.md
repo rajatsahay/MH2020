@@ -1,5 +1,5 @@
 # MH2020
-A repository containing the functional implementation of the app we submit at MedHacks 2020.
+A repository containing the functional implementation of the app we submitted at MedHacks 2020.
 
 First add your AWS credential in src/aws-credential.js
 
